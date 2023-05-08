@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/framer-motion-pizza-order/static/css/main.85706003.chunk.css",
-    "main.js": "/framer-motion-pizza-order/static/js/main.448fb482.chunk.js",
-    "main.js.map": "/framer-motion-pizza-order/static/js/main.448fb482.chunk.js.map",
+    "main.css": "/framer-motion-pizza-order/static/css/main.21fb12d1.chunk.css",
+    "main.js": "/framer-motion-pizza-order/static/js/main.b79def55.chunk.js",
+    "main.js.map": "/framer-motion-pizza-order/static/js/main.b79def55.chunk.js.map",
     "runtime-main.js": "/framer-motion-pizza-order/static/js/runtime-main.27f7390e.js",
     "runtime-main.js.map": "/framer-motion-pizza-order/static/js/runtime-main.27f7390e.js.map",
     "static/js/2.ebc2c67c.chunk.js": "/framer-motion-pizza-order/static/js/2.ebc2c67c.chunk.js",
     "static/js/2.ebc2c67c.chunk.js.map": "/framer-motion-pizza-order/static/js/2.ebc2c67c.chunk.js.map",
     "index.html": "/framer-motion-pizza-order/index.html",
-    "precache-manifest.9710f317e5dbf5897d8ac03889b75414.js": "/framer-motion-pizza-order/precache-manifest.9710f317e5dbf5897d8ac03889b75414.js",
+    "precache-manifest.220a2a04eafeac700993f64083acb08b.js": "/framer-motion-pizza-order/precache-manifest.220a2a04eafeac700993f64083acb08b.js",
     "service-worker.js": "/framer-motion-pizza-order/service-worker.js",
-    "static/css/main.85706003.chunk.css.map": "/framer-motion-pizza-order/static/css/main.85706003.chunk.css.map",
+    "static/css/main.21fb12d1.chunk.css.map": "/framer-motion-pizza-order/static/css/main.21fb12d1.chunk.css.map",
     "static/js/2.ebc2c67c.chunk.js.LICENSE.txt": "/framer-motion-pizza-order/static/js/2.ebc2c67c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.27f7390e.js",
     "static/js/2.ebc2c67c.chunk.js",
-    "static/css/main.85706003.chunk.css",
-    "static/js/main.448fb482.chunk.js"
+    "static/css/main.21fb12d1.chunk.css",
+    "static/js/main.b79def55.chunk.js"
   ]
 }
