@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a862c37d8f35bf6885dec0df2ecf9739",
+    "revision": "c70c509c2184ade9aced5a0a11ab6bf5",
     "url": "/framer-motion-pizza-order/index.html"
   },
   {
-    "revision": "94ac66ab6434c1bbe31d",
-    "url": "/framer-motion-pizza-order/static/css/main.5329da44.chunk.css"
+    "revision": "a10830c388a407c631a7",
+    "url": "/framer-motion-pizza-order/static/css/main.85706003.chunk.css"
   },
   {
     "revision": "6332201cb8808be26429",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/framer-motion-pizza-order/static/js/2.ebc2c67c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "94ac66ab6434c1bbe31d",
-    "url": "/framer-motion-pizza-order/static/js/main.03f497ff.chunk.js"
+    "revision": "a10830c388a407c631a7",
+    "url": "/framer-motion-pizza-order/static/js/main.448fb482.chunk.js"
   },
   {
     "revision": "2d95e4f16f12e7005b94",

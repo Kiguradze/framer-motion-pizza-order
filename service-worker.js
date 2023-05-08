@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/framer-motion-pizza-order/precache-manifest.44cfb860a6a23943746704377abfd9ec.js"
+  "/framer-motion-pizza-order/precache-manifest.9710f317e5dbf5897d8ac03889b75414.js"
 );
 
 self.addEventListener('message', (event) => {
