@@ -1,3 +1,5 @@
+preview: https://kiguradze.github.io/framer-motion-pizza-order/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
