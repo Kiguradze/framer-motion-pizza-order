@@ -19,7 +19,7 @@ const loaderVariants = {
   },
   animationTwo: {
     y: [0, -40],
-    x: 0,
+    x: [0, 0],
     transition: {
       yoyo: Infinity,
       duration: 0.25,
