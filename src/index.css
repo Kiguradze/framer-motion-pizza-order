@@ -21,7 +21,7 @@ div {
   margin: 0;
   padding: 0;
   color: white;
-  font-family: "Quicksand", "NatoSetifGeorgian", cursive;
+  font-family: cursive, "Noto Serif Georgian";
   letter-spacing: 2px;
   list-style-type: none;
   text-decoration: none;
@@ -47,7 +47,7 @@ button {
   opacity: 0.7;
 }
 .container {
-  max-width: 400px;
+  max-width: 420px;
   margin: 100px auto 40px;
 }
 .container h3 {
@@ -99,7 +99,7 @@ li span.active::before {
 
 /* pages */
 .home h2 {
-  font-size: 1.8em;
+  font-size: 1.6em;
   margin-bottom: 30px;
 }
 .home.container,
@@ -110,7 +110,7 @@ li span.active::before {
 .home button {
   color: white;
   padding: 15px 30px;
-  font-size: 1.6em;
+  font-size: 1.2em;
   border: 3px solid white;
   margin: 30px 20px;
 }
