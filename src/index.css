@@ -1,11 +1,12 @@
 /* fonts */
-@font-face {
+/* @font-face {
   font-family: "Quicksand";
   src: url("/Quicksand-Light.woff2") format("woff2"),
     url("/Quicksand-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
-}
+} */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Georgian:wght@100;300;400;500;600;700;800&display=swap");
 
 /* reset & common styles */
 body,
@@ -20,7 +21,7 @@ div {
   margin: 0;
   padding: 0;
   color: white;
-  font-family: "Quicksand", cursive;
+  font-family: "Quicksand", "NatoSetifGeorgian", cursive;
   letter-spacing: 2px;
   list-style-type: none;
   text-decoration: none;
@@ -46,7 +47,7 @@ button {
   opacity: 0.7;
 }
 .container {
-  max-width: 300px;
+  max-width: 400px;
   margin: 100px auto 40px;
 }
 .container h3 {
@@ -98,7 +99,7 @@ li span.active::before {
 
 /* pages */
 .home h2 {
-  font-size: 2em;
+  font-size: 1.8em;
   margin-bottom: 30px;
 }
 .home.container,

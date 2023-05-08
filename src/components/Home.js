@@ -41,10 +41,10 @@ const Home = () => {
       animate="visible"
       exit="exit"
     >
-      <h2>Welcome to Pizza Joint</h2>
+      <h2>კეთილი იყოს თქვენი მობრძანება Pizza Joint-ში</h2>
       <Link to="/base">
         <motion.button variants={buttonVariants} whileHover="hover">
-          Create Your Pizza
+          შექმენი შენი პიცა
         </motion.button>
       </Link>
       <Loader />

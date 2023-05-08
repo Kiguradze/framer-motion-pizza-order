@@ -31,9 +31,9 @@ const Modal = ({ showModal, setShowModal }) => {
           exit="hidden"
         >
           <motion.div className="modal" variants={modal}>
-            <p>Want to make another pizza?</p>
+            <p>გსურთ ახალი პიცის შექმნა?</p>
             <Link to="/">
-              <button>Start again</button>
+              <button>შექმენი ახალი</button>
             </Link>
           </motion.div>
         </motion.div>

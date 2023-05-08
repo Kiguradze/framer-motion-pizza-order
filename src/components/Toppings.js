@@ -4,12 +4,12 @@ import { motion } from "framer-motion";
 
 const Toppings = ({ addTopping, pizza }) => {
   let toppings = [
-    "mushrooms",
-    "peppers",
-    "onions",
-    "olives",
-    "extra cheese",
-    "tomatoes",
+    "სოკო",
+    "წიწაკა",
+    "ხახვი",
+    "ზეთისხილი",
+    "დამატებითი ყველი",
+    "პომიდორი",
   ];
 
   const containerVariants = {
@@ -51,7 +51,7 @@ const Toppings = ({ addTopping, pizza }) => {
       animate="visible"
       exit="exit"
     >
-      <h3>Step 2: Choose Toppings</h3>
+      <h3>ნაბიჯი 2: აირჩიე ინგრედიენტები</h3>
       <ul>
         {toppings.map((topping) => {
           let spanClass = pizza.toppings.includes(topping) ? "active" : "";
@@ -70,7 +70,7 @@ const Toppings = ({ addTopping, pizza }) => {
 
       <Link to="/order">
         <motion.button variants={buttonVariants} whileHover="hover">
-          Order
+          შეკვეთა
         </motion.button>
       </Link>
     </motion.div>

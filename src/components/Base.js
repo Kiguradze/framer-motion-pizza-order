@@ -47,7 +47,7 @@ const buttonVariants = {
 };
 
 const Base = ({ addBase, pizza }) => {
-  const bases = ["Classic", "Thin & Crispy", "Thick Crust"];
+  const bases = ["კლასიკური", "თხელი და ხრაშუნა", "სქელი ქერქი"];
 
   return (
     <motion.div
@@ -57,7 +57,7 @@ const Base = ({ addBase, pizza }) => {
       animate="visible"
       exit="exit"
     >
-      <h3>Step 1: Choose Your Base</h3>
+      <h3>ნაბიჯი 1: აირჩიე შენი პიცის ბაზა</h3>
       <ul>
         {bases.map((base) => {
           let spanClass = pizza.base === base ? "active" : "";
@@ -78,7 +78,7 @@ const Base = ({ addBase, pizza }) => {
         <motion.div className="next" variants={nextVariants}>
           <Link to="/toppings">
             <motion.button variants={buttonVariants} whileHover="hover">
-              Next
+              შემდეგი
             </motion.button>
           </Link>
         </motion.div>

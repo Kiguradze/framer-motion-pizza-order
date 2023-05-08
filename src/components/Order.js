@@ -49,9 +49,9 @@ const Order = ({ pizza, setShowModal }) => {
       animate="visible"
       exit="exit"
     >
-      <h2>Thank you for your order :)</h2>
+      <h2>გმადლობთ შეკვეთისთვის :)</h2>
       <motion.p variants={childVariants}>
-        You ordered a {pizza.base} pizza with:
+        თქვენ შეუკვეთეთ {pizza.base} პიცა:
       </motion.p>
       <motion.div variants={childVariants}>
         {pizza.toppings.map((topping) => (

@@ -38,7 +38,7 @@ const Loader = () => {
         animate={animation}
       ></motion.div>
       <div onClick={() => cycleAnimation()} style={{ cursor: "pointer" }}>
-        Cycle Loader
+        ანიმაციის შეცვლა
       </div>
     </>
   );
